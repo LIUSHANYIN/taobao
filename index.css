@@ -1,0 +1,235 @@
+.container{
+    
+    position: absolute;
+    
+    width: 100%;
+    
+}
+
+.top{
+    
+    width: 100%;
+}
+body{
+    line-height: 1.5;
+    
+}
+.a1 img{
+    width: 200px;
+    position: relative;
+    
+}
+
+.a2{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    font-weight: 300;
+    position: relative;
+}
+.top1{
+    position: relative;
+    left: 25%;
+    margin-top: 10px;
+}
+.mid{
+    position: relative;
+    width: 100%;
+    
+}
+.hr1{
+    position: relative;
+    
+    border-color: rgba(99, 98, 98, 0.171);
+}
+.hr2{
+    position: relative;
+    top: 480px;
+    border-color: rgba(255, 1, 1, 0.747);
+}
+.login{
+    width: 352px;
+    height: 397px;
+    background-color: white;
+    position: absolute;
+    top: 45px;
+    border-left: 1px solid #e8e8e8;
+    border-right: 1px solid #e8e8e8;
+    border-bottom: 1px solid #e8e8e8;
+    border-top: 2px solid #f40;
+    box-shadow: 0 2px 6px #acacac;
+    left: 60%;
+  
+    
+}
+.l1{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.l1 p{
+    font-size: 20px;
+    padding-left: 25px;
+    font-weight: 500;
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 200px;
+}
+.btn div input{
+    width: 250px;
+    height: 33px;
+}
+.img1{
+    position: relative;
+    left: 7px;
+    bottom: 2px;
+
+}
+.img2{
+    position: relative;
+    left: 7px;
+    bottom: 1px;
+}
+
+.btn button{
+    width: 300px;
+    position: relative;
+    left: 5px;
+    height: 43px;
+    background-color: #f40;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.face{
+    position: relative;
+    top: 10px;
+    left: 33px;
+}
+
+.bot{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 30px;
+    margin: 0 30px;
+}
+.bot div a{
+    text-decoration: none;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.548);
+}
+.bottom{
+    position: relative;
+    height: 93px;
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.07);
+    top: 470px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    border-top: #acacac00;
+}
+.d1{
+    border: 1px solid rgba(0, 0, 0, 0.089);
+}
+
+.bao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.zhi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t24{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bao div h2{
+    font-weight: 500;
+    padding-left: 10px;
+}
+.bao div p{
+    font-size: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: rgba(0, 0, 0, 0.445);
+    width: 195px;
+}
+.zhi div h2{
+    font-weight: 500;
+    padding-left: 10px;
+}
+.zhi div p{
+    font-size: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: rgba(0, 0, 0, 0.445);
+    width: 195px;
+}
+
+.t24 div h2{
+    font-weight: 500;
+    padding-left: 10px;
+}
+.t24 div p{
+    font-size: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: rgba(0, 0, 0, 0.445);
+    width: 195px;
+}
+
+.footer{
+    width: 100%;
+    position: relative;
+    height: 102px;
+    top:470px ;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.f1 a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.507);
+    font-size: 13px;
+}
+.f2{
+    display: flex;
+    padding-top: 10px;
+
+}
+.f2 a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.507);
+    font-size: 13px;
+    padding-left: 5px;
+}
+.f2 p{
+    color: rgba(0, 0, 0, 0.452);
+    font-size: 13px;
+    padding-left: 30px;
+}
+.f3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+.f3 p{
+    color: rgba(0, 0, 0, 0.452);
+    font-size: 13px;
+    padding-left: 30px;
+}
